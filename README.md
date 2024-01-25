@@ -3,3 +3,5 @@
 
 ##test out our skills to be able to work through the conflicts##
 ##this is the second push to create a conflict##
+This is my 2nd commit
+and first conflict
