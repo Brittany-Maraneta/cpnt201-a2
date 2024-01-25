@@ -5,4 +5,4 @@
 this is a human.
 Ai
 ok
-hello hello, trying to resolve a conflict ok
+hello hello, trying to resolve a conflict ok i know
